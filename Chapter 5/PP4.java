@@ -1,3 +1,4 @@
+//This is a test.
 import java.util.Scanner;
 import java.util.Random;
 public class PP4{
@@ -28,4 +29,4 @@ public class PP4{
            count++;
         }
         System.out.println ("Done? Thanks for playing!"); 
-    }}
+    
